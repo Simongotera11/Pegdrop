@@ -1,6 +1,6 @@
 # Pegdrop
 # Game Description
-# A ball drops from the top of the screen, and as it descends, it must touch each peg and strike the target at the bottom of the screen.
+A ball drops from the top of the screen, and as it descends, it must touch each peg and strike the target at the bottom of the screen.
 
 # Game Rules
 When the ball strikes the target, it resets and the game advances one peg to the next level. 
